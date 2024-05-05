@@ -13,7 +13,8 @@
 
 ### 실행 파일
 [다운로드](https://docs.google.com/uc?export=download&id=1U1La4isEi6jx0LL_jpMc4rt-UZhBBx2Q) 
-</br>
+### 실행 영상
+[![Video Label](http://img.youtube.com/vi/6R00T7YufZY/0.jpg)](https://youtu.be/6R00T7YufZY)
 
 # 개발자 소개
 ![Profile](https://github.com/Freedate/Game-Client-Portfolio/assets/10007304/092f7c7e-06e6-4b6a-887a-ef9425a98139)
